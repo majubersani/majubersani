@@ -1,9 +1,7 @@
-### Olá! Eu sou o Lucas Souto 👋
+### Olá! Eu sou a maju 👋
 
-[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasouto97/)
-
-![Lucas Souto GitHub stats](https://github-readme-stats.vercel.app/api?username=lukninja97&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukninja97&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![Lucas Souto GitHub stats](https://github-readme-stats.vercel.app/api?username=majubersani&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majubersani&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que eu uso no meu dia
 
